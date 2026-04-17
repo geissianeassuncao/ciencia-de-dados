@@ -9,7 +9,7 @@ Analisar fatores que influenciam salários na área de dados.
 - Empresas maiores pagam mais?
 - Existe evolução ao longo dos anos?
 
-## Tec
+## Tecnologias
 - Python
 - Pandas
 - Seaborn
